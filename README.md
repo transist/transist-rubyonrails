@@ -6,6 +6,9 @@ Ruby on Rails
 Class Material
 --------------
 
+* [Introduction: Getting Started](https://github.com/transist/transist-rubyonrails/blob/master/lectures/00-getting-started/README.md)
+
+
 Exercises
 ---------
 
