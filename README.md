@@ -12,7 +12,7 @@ Exercises
 License
 -------
 
-This course is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). It may be reused and adapted for non-commercial purposes. Please contact [Matthew Owens at GeneralAssemb.ly](mailto:mowens@generalassemb.ly) for commercial licensing.
+This course is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 ![Creative Commons Attribution-ShareAlike 3.0 Unported License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png "Creative Commons Attribution-ShareAlike 3.0 Unported License")
 
