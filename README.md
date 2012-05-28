@@ -1,4 +1,4 @@
-Ruby on Rails for Non-Developers
+Ruby on Rails
 ============================
 
 ![Transi.st](https://github.com/transist/transist-rubyonrails/raw/master/images/logo_small.png "Transi.st")
