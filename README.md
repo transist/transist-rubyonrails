@@ -26,4 +26,4 @@ Sponsors
 Copyright
 ---------
 
-(c) 2012 [GeneralAssemb.ly](https://generalassemb.ly/ruby-on-rails-for-devs), [Daniel Doubrovkine](http://github.com/dblock) and [contributors](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/blob/master/CONTRIBUTORS.md).
+(c) 2012 [GeneralAssemb.ly](https://51skills.com/ruby-on-rails-for-devs), [Scott Ballantyne](http://github.com/ballantyne) and [contributors](https://github.com/transist/transist-rubyonrails/blob/master/CONTRIBUTORS.md).
