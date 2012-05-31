@@ -14,7 +14,7 @@ Class Material
 * [Lecture 5: Activerecord](https://github.com/transist/transist-rubyonrails/blob/master/lectures/05-activerecord/README.md)
 * [Lecture 6: REST](https://github.com/transist/transist-rubyonrails/blob/master/lectures/06-rest/README.md)
 * [Lecture 7: Layouts, Rendering and Assets](https://github.com/transist/transist-rubyonrails/blob/master/lectures/07-layouts-rendering-and-assets/README.md)
-
+* [Lecture 8: The Last 20%](https://github.com/transist/transist-rubyonrails/blob/master/lectures/07-layouts-rendering-and-assets/README.md)
 
 Exercises
 ---------
@@ -33,4 +33,4 @@ Who wnats to sponsor?  email me, scott@transi.st
 Copyright
 ---------
 
-(c) 2012 [GeneralAssemb.ly](https://51skills.com/ruby-on-rails-for-devs), [Scott Ballantyne](http://github.com/ballantyne) and [contributors](https://github.com/transist/transist-rubyonrails/blob/master/CONTRIBUTORS.md).
+(c) 2012 [Transist](https://51skills.com/ruby-on-rails-for-devs), [Scott Ballantyne](http://github.com/ballantyne) and [contributors](https://github.com/transist/transist-rubyonrails/blob/master/CONTRIBUTORS.md).
