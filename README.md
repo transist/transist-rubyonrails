@@ -7,6 +7,13 @@ Class Material
 --------------
 
 * [Introduction: Getting Started](https://github.com/transist/transist-rubyonrails/blob/master/lectures/00-getting-started/README.md)
+* [Lecture 1: Ruby Basics](https://github.com/transist/transist-rubyonrails/blob/master/lectures/01-ruby-basics/README.md)
+* [Lecture 2: Rails MVC](https://github.com/transist/transist-rubyonrails/blob/master/lectures/02-rails-mvc/README.md)
+* [Lecture 3: Testing](https://github.com/transist/transist-rubyonrails/blob/master/lectures/03-testing/README.md)
+* [Lecture 4: Metaprogramming](https://github.com/transist/transist-rubyonrails/blob/master/lectures/04-metaprogramming/README.md)
+* [Lecture 5: Activerecord](https://github.com/transist/transist-rubyonrails/blob/master/lectures/05-activerecord/README.md)
+* [Lecture 6: REST](https://github.com/transist/transist-rubyonrails/blob/master/lectures/06-rest/README.md)
+* [Lecture 7: Layouts, Rendering and Assets](https://github.com/transist/transist-rubyonrails/blob/master/lectures/07-layouts-rendering-and-assets/README.md)
 
 
 Exercises
@@ -21,7 +28,7 @@ This course is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unp
 
 Sponsors
 --------
-
+Who wnats to sponsor?  email me, scott@transi.st
 
 Copyright
 ---------
